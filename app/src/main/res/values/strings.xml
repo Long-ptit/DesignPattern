@@ -1,0 +1,20 @@
+<resources>
+  <string name="app_name">Base Project</string>
+  <string name="send_data">Send data</string>
+  <string name="choose_your_hero_type_you_want">Choose your hero type you want</string>
+  <string name="choose_your_hero_branch_you_want">Choose your hero branch you want</string>
+    <string name="enter_your_name_of_equipment">Enter your name of equipment</string>
+  <string name="hero_detail">Hero infor</string>
+
+
+  <string-array name="list_type_hero">
+    <item>NOXUS</item>
+    <item>DEMACIA</item>
+    <item>BIGWATER</item>
+  </string-array>
+
+  <string-array name="list_branch_hero">
+    <item>Mez</item>
+    <item>Audi</item>
+  </string-array>
+</resources>
